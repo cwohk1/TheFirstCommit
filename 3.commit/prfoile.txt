@@ -1,2 +1,2 @@
-email :
-gitID :
+email : cwohk1@naver.com
+gitID : cwohk1
